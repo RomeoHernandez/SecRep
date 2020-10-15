@@ -1,7 +1,5 @@
 html{text-align: center; font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif; background-color: burlywood;}
 
-#div1{line-height: 50px;}
-
 #p1{font-size: small;}
 
 input{width: 250px;}
@@ -10,6 +8,6 @@ input{width: 250px;}
 
 #input2{width: 100px;}
 
-#input3{width: 340px;}
+#input3{width: 375px;}
 
-button{line-height: 10px;}
+button{line-height: 15px;}
